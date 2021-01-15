@@ -7,5 +7,11 @@ so that students can come alone with this project.
 
 - Dhanusha
 
-
+Sir's repo:
 https://github.com/sura-boy-playground/servlet-pos
+
+
+This project is created as the backend for the simple POS system. 
+Gradle is used as the build tool. T
+his project is created by applying the learning outcomes of MVC(/MVC2) architecture. 
+Unit Testing lessons also included in this project.
